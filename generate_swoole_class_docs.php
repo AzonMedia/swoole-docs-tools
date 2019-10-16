@@ -61,7 +61,7 @@ function generate_swoole_docs(string $path_prefix) {
         $class_readme_content = <<<README
 # $class_name
 
-## Intrduction
+## Introduction
 
 ## API
 
